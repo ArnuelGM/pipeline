@@ -1,5 +1,6 @@
 # Pipeline
 
+```JavaScript
 const double = (number) => number * 2;
 const addOne = (number) => number + 1;
 
@@ -20,3 +21,4 @@ pipeline
 */
 
 console.log(pipeline.process(10)) // 41
+```
